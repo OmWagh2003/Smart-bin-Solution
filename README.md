@@ -1,4 +1,4 @@
-# Bintelligence-smart-bin
+# Bintelligence- A smart bin
 # Smart Bin Application
 
 This repository contains the source code and resources for a Smart Bin application. The Smart Bin is designed to intelligently monitor waste levels and provide data visualization for efficient waste management.
